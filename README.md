@@ -8,6 +8,7 @@ Page Object Model (POM) design
 ExtentReports with screenshots on fail
 Logging implemented (e.g., Log4j)
 
+
  Tools:
 Java | Selenium | TestNG | Maven | ExtentReports | Log4j | Git | GitHub | Jenkins
 
