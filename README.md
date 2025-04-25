@@ -13,11 +13,17 @@ Logging implemented (e.g., Log4j)
 Java | Selenium | TestNG | Maven | ExtentReports | Log4j | Git | GitHub | Jenkins
 
 How to Run:
+
+
 1:Clone the repo
+
+
 2:Run mvn test
+
+
 3:Check the reports/ folder for the HTML report
 
-Here are report of failed test cases with screenshots 
+
 
 
 
