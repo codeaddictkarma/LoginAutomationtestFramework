@@ -1,0 +1,564 @@
+2025-04-25 12:59:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\dataprovider.xml
+
+2025-04-25 12:59:12 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 12:59:16 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 12:59:16 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 12:59:16 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 12:59:16 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 12:59:16 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 12:59:16 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 12:59:26 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 12:59:26 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 12:59:26 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 12:59:26 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 12:59:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 12:59:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 12:59:36 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:16:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\dataprovider.xml
+
+2025-04-25 13:16:06 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:16:09 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:16:09 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:16:19 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login*******
+2025-04-25 13:16:19 [main] ERROR net.bytebuddy.asm.Advice.This - ********test failed********
+2025-04-25 13:16:19 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:16:19 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:16:29 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:16:29 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:16:29 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:16:29 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:16:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:16:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:16:39 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:19:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\dataprovider.xml
+
+2025-04-25 13:19:47 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:19:50 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:19:50 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:20:00 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login*******
+2025-04-25 13:20:00 [main] ERROR net.bytebuddy.asm.Advice.This - ********test failed********
+2025-04-25 13:20:00 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:20:00 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:20:11 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:20:11 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:20:11 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:20:11 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:20:21 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:20:21 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:20:21 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:24:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\dataprovider.xml
+
+2025-04-25 13:24:32 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:24:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:24:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:24:37 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 13:24:37 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 13:24:37 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:24:37 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:24:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:24:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:24:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:24:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:24:57 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:24:57 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:24:58 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:39:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 13:39:07 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:39:09 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 13:39:10 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 13:39:10 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 13:39:14 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:39:15 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:39:17 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 13:39:17 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 13:39:17 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 13:39:20 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:39:21 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:39:24 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 13:39:24 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 13:39:24 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 13:39:27 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:39:28 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:39:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:39:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:39:32 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 13:39:32 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 13:39:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:39:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:39:42 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:39:42 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:39:43 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:39:43 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:39:53 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:39:53 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:39:53 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:41:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 13:41:27 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:41:29 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 13:41:30 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 13:41:30 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 13:41:34 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:41:35 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:41:37 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 13:41:37 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 13:41:37 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 13:41:40 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:41:41 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:41:44 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 13:41:44 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 13:41:44 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 13:41:47 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:41:48 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:41:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:41:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:41:52 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 13:41:52 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 13:41:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:41:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:42:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:42:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:42:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:42:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:42:13 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:42:13 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:42:13 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:48:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\dataprovider.xml
+
+2025-04-25 13:48:10 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:48:14 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:48:14 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:48:14 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 13:48:14 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 13:48:15 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:48:15 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:48:25 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:48:25 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:48:25 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:48:25 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:48:35 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:48:35 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:48:35 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:50:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\dataprovider.xml
+
+2025-04-25 13:50:52 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:50:56 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:50:56 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:50:59 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 13:50:59 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 13:51:20 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:57:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\dataprovider.xml
+
+2025-04-25 13:57:23 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:57:27 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:57:27 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 13:57:27 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 13:57:27 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 13:57:31 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:57:34 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:57:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:57:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:57:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 13:57:50 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 13:58:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 13:58:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 13:58:03 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 13:59:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 13:59:56 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 13:59:59 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 14:00:00 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 14:00:00 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 14:00:03 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:00:04 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:00:07 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 14:00:07 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 14:00:07 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 14:00:10 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:00:11 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:00:14 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 14:00:14 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 14:00:14 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 14:00:17 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:45:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 14:45:37 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:45:40 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 14:45:40 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 14:45:40 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 14:45:50 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:45:51 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:45:54 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 14:45:54 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 14:45:54 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 14:45:57 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:45:58 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:46:00 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 14:46:00 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 14:46:00 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 14:46:03 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:48:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 14:48:47 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:48:51 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 14:48:51 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 14:48:51 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 14:49:02 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:49:02 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:49:06 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 14:49:06 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 14:49:06 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 14:49:09 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:49:10 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:49:15 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 14:49:15 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 14:49:15 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 14:49:18 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:51:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 14:51:19 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:51:23 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 14:51:23 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 14:51:23 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 14:51:34 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:51:35 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:51:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 14:51:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 14:51:39 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 14:51:42 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:51:43 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:51:47 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 14:51:48 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 14:51:58 [main] ERROR net.bytebuddy.asm.Advice.This - *******test failed**********
+2025-04-25 14:51:58 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:53:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 14:53:13 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:53:18 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 14:53:18 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 14:53:18 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 14:53:28 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:53:29 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:53:33 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 14:53:34 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 14:53:44 [main] ERROR net.bytebuddy.asm.Advice.This - *******test failed********
+2025-04-25 14:53:44 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 14:53:45 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 14:53:49 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 14:53:50 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 14:54:00 [main] ERROR net.bytebuddy.asm.Advice.This - *******test failed**********
+2025-04-25 14:54:00 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:03:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:03:05 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:03:13 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:03:14 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:03:14 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:03:17 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:03:18 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:03:22 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:03:22 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:03:22 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:03:25 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:03:26 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:03:33 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:04:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:04:54 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:04:57 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:04:58 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:04:58 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:05:02 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:05:03 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:05:07 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:05:07 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:05:07 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:05:10 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:05:11 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:05:15 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:06:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:07:00 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:07:04 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:07:05 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:07:05 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:07:08 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:07:09 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:07:13 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:07:13 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:07:13 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:07:16 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:07:17 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:07:21 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:07:21 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:07:21 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:07:24 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:09:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:09:47 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:09:51 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:09:52 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:09:52 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:09:55 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:09:56 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:10:00 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:10:00 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:10:00 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:10:03 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:10:04 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:10:08 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:10:08 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:10:08 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:10:11 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:10:13 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:10:17 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:10:18 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:10:18 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:10:22 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:10:24 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:10:28 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:10:28 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:10:28 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:10:31 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:10:33 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:10:38 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:10:38 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:10:38 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:10:41 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:10:43 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:10:47 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:10:48 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:10:48 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:10:52 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:10:54 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:10:58 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:10:58 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:10:58 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:11:02 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:11:04 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:11:07 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:11:07 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:11:07 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:11:11 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:20:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:21:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:22:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:23:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:23:23 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:23:27 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:23:28 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:23:28 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:23:31 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:23:32 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:23:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:23:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:23:36 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:23:39 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:23:40 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:23:44 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:23:44 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:23:44 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:23:47 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:26:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:28:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:30:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:31:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:31:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\LoginAutomationTest\LoginTest.xml
+
+2025-04-25 15:31:53 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:31:57 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:31:57 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:31:57 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:32:01 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:32:02 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:32:06 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:32:06 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:32:06 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:32:09 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:32:10 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:32:13 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:32:14 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:32:14 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:32:17 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:34:20 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:34:23 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:34:24 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:34:24 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:34:27 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:34:28 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:34:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:34:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:34:32 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:34:35 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:34:36 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:34:40 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:34:40 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:34:40 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:34:43 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:35:30 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:35:34 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:35:35 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:35:35 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:35:39 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:35:40 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:35:43 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:35:43 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:35:43 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:35:47 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:35:47 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:35:51 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:35:51 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:35:51 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:35:54 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:37:04 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:37:08 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:37:09 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:37:09 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:37:13 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:37:14 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:37:18 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:37:18 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:37:18 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:37:21 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:37:22 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:37:25 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:37:26 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:37:26 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:37:29 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:37:30 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:37:35 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 15:37:35 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 15:37:35 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 15:37:35 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 15:37:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 15:37:42 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 15:37:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 15:37:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 15:37:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 15:37:55 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 15:38:05 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 15:38:05 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 15:38:05 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:41:35 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:41:39 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 15:41:40 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 15:41:40 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 15:41:44 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:41:45 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:41:49 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 15:41:49 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 15:41:49 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 15:41:52 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:41:53 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:41:57 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 15:41:57 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 15:41:57 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 15:42:00 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 15:42:01 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 15:42:06 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 15:42:06 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 15:42:06 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 15:42:06 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 15:42:10 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 15:42:13 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 15:42:23 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 15:42:23 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 15:42:23 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 15:42:26 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 15:42:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 15:42:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 15:42:36 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:19:53 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:20:00 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 16:20:01 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 16:20:01 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 16:20:05 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:20:06 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:20:11 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 16:20:11 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 16:20:11 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 16:20:14 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:20:15 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:20:25 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 16:20:25 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 16:20:25 [main] ERROR net.bytebuddy.asm.Advice.This - *******test failed**********
+2025-04-25 16:20:25 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:20:26 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:20:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 16:20:32 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 16:20:32 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 16:20:32 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 16:20:36 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 16:20:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 16:20:49 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 16:20:49 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 16:20:49 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 16:20:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 16:21:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 16:21:03 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 16:21:03 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:24:18 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:24:22 [main] INFO  net.bytebuddy.asm.Advice.This - ***********provided username and password***********
+2025-04-25 16:24:22 [main] INFO  net.bytebuddy.asm.Advice.This - ***********clicked the submitbutton**********
+2025-04-25 16:24:22 [main] INFO  net.bytebuddy.asm.Advice.This - ***********varifying logged in sucess msg***********
+2025-04-25 16:24:26 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:24:27 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:24:31 [main] INFO  net.bytebuddy.asm.Advice.This - *********incorrect user and correct password********
+2025-04-25 16:24:31 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the submit button************
+2025-04-25 16:24:31 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed********
+2025-04-25 16:24:34 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:24:35 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:24:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********correct user and incorrect password********
+2025-04-25 16:24:39 [main] INFO  net.bytebuddy.asm.Advice.This - *********clicked the subumit button********
+2025-04-25 16:24:39 [main] INFO  net.bytebuddy.asm.Advice.This - ********test passed**********
+2025-04-25 16:24:42 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************
+2025-04-25 16:24:43 [main] INFO  net.bytebuddy.asm.Advice.This - *****************url opening******************
+2025-04-25 16:24:48 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 16:24:48 [main] INFO  net.bytebuddy.asm.Advice.This - *********valid credentials***********
+2025-04-25 16:24:48 [main] INFO  net.bytebuddy.asm.Advice.This - *******able to login*******
+2025-04-25 16:24:48 [main] INFO  net.bytebuddy.asm.Advice.This - *******test passed*********
+2025-04-25 16:24:52 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 16:24:55 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 16:25:05 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 16:25:05 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 16:25:05 [main] INFO  net.bytebuddy.asm.Advice.This - *********provided username and password and clicked the submit button********
+2025-04-25 16:25:08 [main] INFO  net.bytebuddy.asm.Advice.This - *********invalid credentials*******
+2025-04-25 16:25:18 [main] INFO  net.bytebuddy.asm.Advice.This - *********unable to login******
+2025-04-25 16:25:18 [main] INFO  net.bytebuddy.asm.Advice.This - *********test passed**********
+2025-04-25 16:25:18 [main] INFO  net.bytebuddy.asm.Advice.This - ***********browser closed**************

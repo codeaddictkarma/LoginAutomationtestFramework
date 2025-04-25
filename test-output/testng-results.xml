@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-25T15:31:52 IST" name="Suite" finished-at="2025-04-25T15:32:17 IST" duration-ms="25040">
+    <groups>
+      <group name="regression">
+        <method signature="TC2_NegativeUsername.NegetiveUsernameTest()[pri:0, instance:TestCases.TC2_NegativeUsername@3c7c886c]" name="NegetiveUsernameTest" class="TestCases.TC2_NegativeUsername"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC3_NegativePassword.negativePasswordTest()[pri:0, instance:TestCases.TC3_NegativePassword@55493582]" name="negativePasswordTest" class="TestCases.TC3_NegativePassword"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="TC1_ValiduserAndpassword.LoginTestValiduserandPassword()[pri:0, instance:TestCases.TC1_ValiduserAndpassword@4331d187]" name="LoginTestValiduserandPassword" class="TestCases.TC1_ValiduserAndpassword"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC1_ValiduserAndpassword.LoginTestValiduserandPassword()[pri:0, instance:TestCases.TC1_ValiduserAndpassword@4331d187]" name="LoginTestValiduserandPassword" class="TestCases.TC1_ValiduserAndpassword"/>
+        <method signature="TC2_NegativeUsername.NegetiveUsernameTest()[pri:0, instance:TestCases.TC2_NegativeUsername@3c7c886c]" name="NegetiveUsernameTest" class="TestCases.TC2_NegativeUsername"/>
+        <method signature="TC3_NegativePassword.negativePasswordTest()[pri:0, instance:TestCases.TC3_NegativePassword@55493582]" name="negativePasswordTest" class="TestCases.TC3_NegativePassword"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2025-04-25T15:31:52 IST" name="Test1" finished-at="2025-04-25T15:32:17 IST" duration-ms="25040">
+      <class name="TestCases.TC3_NegativePassword">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TC3_NegativePassword@55493582]" started-at="2025-04-25T15:32:09 IST" name="setup" finished-at="2025-04-25T15:32:13 IST" duration-ms="4626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="negativePasswordTest()[pri:0, instance:TestCases.TC3_NegativePassword@55493582]" started-at="2025-04-25T15:32:13 IST" name="negativePasswordTest" finished-at="2025-04-25T15:32:17 IST" duration-ms="3193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativePasswordTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC3_NegativePassword@55493582]" started-at="2025-04-25T15:32:17 IST" name="tearDown" finished-at="2025-04-25T15:32:17 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC3_NegativePassword -->
+      <class name="TestCases.TC2_NegativeUsername">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TC2_NegativeUsername@3c7c886c]" started-at="2025-04-25T15:32:01 IST" name="setup" finished-at="2025-04-25T15:32:03 IST" duration-ms="2151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NegetiveUsernameTest()[pri:0, instance:TestCases.TC2_NegativeUsername@3c7c886c]" started-at="2025-04-25T15:32:03 IST" name="NegetiveUsernameTest" finished-at="2025-04-25T15:32:09 IST" duration-ms="5532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegetiveUsernameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC2_NegativeUsername@3c7c886c]" started-at="2025-04-25T15:32:09 IST" name="tearDown" finished-at="2025-04-25T15:32:09 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC2_NegativeUsername -->
+      <class name="TestCases.TC1_ValiduserAndpassword">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TC1_ValiduserAndpassword@4331d187]" started-at="2025-04-25T15:31:52 IST" name="setup" finished-at="2025-04-25T15:31:56 IST" duration-ms="4707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTestValiduserandPassword()[pri:0, instance:TestCases.TC1_ValiduserAndpassword@4331d187]" started-at="2025-04-25T15:31:56 IST" name="LoginTestValiduserandPassword" finished-at="2025-04-25T15:32:01 IST" duration-ms="4431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestValiduserandPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC1_ValiduserAndpassword@4331d187]" started-at="2025-04-25T15:32:01 IST" name="tearDown" finished-at="2025-04-25T15:32:01 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC1_ValiduserAndpassword -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
